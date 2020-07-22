@@ -5,4 +5,4 @@ layout: "base.njk"
 
 ---
 
-![photo](/assets/img/cover.gif)
+![photo](/assets/img/cover.jpg)
